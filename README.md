@@ -21,7 +21,7 @@ line:
 
 Or, you can [download the source code
 (ZIP)](https://github.com/delciotorres/pyintralinks/zipball/master "intralinks
-source code") for `intralinks-python`, and then run:
+source code") for `pyintralinks`, and then run:
 
     python setup.py install
 
