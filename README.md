@@ -1,4 +1,4 @@
-# intralinks-python
+# pyintralinks
 
 [![Build Status](https://travis-ci.org/delciotorres/pyintralinks.svg?branch=master)](https://travis-ci.org/delciotorres/pyintralinks)
 
