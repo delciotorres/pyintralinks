@@ -1,0 +1,20 @@
+Metadata-Version: 1.1
+Name: pyintralinks
+Version: 0.1.0
+Author: Delcio Torres
+Author-email: delciotorres at gmail com
+Home-page: https://github.com/delciotorres/pyintralinks
+Summary: Intralinks Python API Client
+License: Distributed under MIT License
+Description: Intralinks Python API Client simplifies the use of Intralinks API.
+        For more details see: https://github.com/delciotorres/pyintralinks
+Keywords: intralinks api
+Classifier: Development Status :: 1 - Planning
+Classifier: Intended Audience :: Developers
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Classifier: Programming Language :: Python
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Communications :: File Sharing
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+
