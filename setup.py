@@ -10,6 +10,7 @@ setup(
     author_email='delciotorres@gmail.com',
     license='MIT',
     zip_safe=False,
+    packages=['pyintralinks'],
     install_requires=['requests'],
     keywords=['intralinks', 'api'],
     classifiers=[
