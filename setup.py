@@ -10,7 +10,7 @@ setup(
     author_email='delciotorres at gmail com',
     license='MIT',
     zip_safe=False,
-    requires=['requests'],
+    install_requires=['requests'],
     keywords=['intralinks', 'api'],
     classifiers=[
         "Classifier: Development Status :: 1 - Planning",
