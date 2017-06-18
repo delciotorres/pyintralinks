@@ -7,7 +7,7 @@ setup(
     long_description='Simplifies the use of Intralinks API.',
     url='https://github.com/delciotorres/pyintralinks',
     author='Delcio Torres',
-    author_email='delciotorres at gmail com',
+    author_email='delciotorres@gmail.com',
     license='MIT',
     zip_safe=False,
     install_requires=['requests'],
